@@ -2,7 +2,7 @@
 
 Specialist in web development with JavaScript, passionate about technology, and I can help you turn your idea into a solid and scalable project, using the ideal technologies and the best programming standards to maintain efficient, secure, and clean code, ensuring a magical experience for the end user.
 
-✓ 5 years XP</br>
+✓ 6 years XP</br>
 ✓ DevOps at Iten Tecnologia | Techlead at DPI</br>
 ✓📱 You can contact me: +5582982110351</br>
 ✓ I speak Portuguese (native) and English</br></br>
