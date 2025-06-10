@@ -19,5 +19,5 @@ Specialist in web development with JavaScript, passionate about technology, and 
 ✓ Unit Testing | Clean Architeture</br>
 </br></br>
 
-![Toni Moreira's GitHub stats](https://github-readme-stats.vercel.app/api/?username=tonimoreiraa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Toni Moreira's GitHub stats](https://github-readme-stats.vercel.app/api/?username=tonimoreiraa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonimoreiraa&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
