@@ -3,13 +3,13 @@
 Specialist in web development with JavaScript, passionate about technology, and I can help you turn your idea into a solid and scalable project, using the ideal technologies and the best programming standards to maintain efficient, secure, and clean code, ensuring a magical experience for the end user.
 
 ✓ 6 years XP</br>
-✓ Developer at Iten Tecnologia | Techlead at DPI</br>
+✓ Developer at DPI</br>
 ✓📱 You can contact me: +5582982110351</br>
 ✓ I speak Portuguese (native) and English</br></br>
 
 
 ### My current skills, frameworks and technologies:
-✓ JavaScript | TypeScript | NodeJS</br>
+✓ JavaScript | TypeScript | NodeJS | NestJS </br>
 ✓ ReactJS | NextJS | React Native</br>
 ✓ TailwindCSS | ShadcnUI</br>
 ✓ AdonisJS | API Rest | TRPC</br>
